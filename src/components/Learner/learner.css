@@ -1,0 +1,15 @@
+ul {
+  list-style-type: none;
+  width: 80%
+}
+
+li {
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+li h2 {
+  margin-top: 0;
+}

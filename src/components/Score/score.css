@@ -1,0 +1,10 @@
+ul.scores {
+  list-style-type: square;
+  width: 80%
+}
+
+li.score {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
